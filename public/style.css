@@ -1,0 +1,32 @@
+body { 
+    color: #333;
+    background-color: #fff;
+}
+
+header img {
+    max-width: 100%;
+}
+
+p.intro {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    text-align: center;
+}
+
+#generate-sitemap-button {
+    color: #fff;
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: 700;
+    display: block;
+    margin: 20px auto;
+    background-color: #f00;
+    border: 0 none;
+    padding: 10px 20px;
+    text-transform: uppercase;
+}
+
+#generate-sitemap-button:hover {
+    border-color: #fff;
+    background-color: #000;
+}

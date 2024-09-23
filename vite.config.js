@@ -26,6 +26,7 @@ export default defineConfig({
         compact: true,
         globals: {
           jquery: '$',
+          sitemapController: 'SitemapController'
         },
       },
       external: ['jquery'],
